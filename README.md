@@ -15,5 +15,5 @@ A simple **Python PDF Viewer** built with **Tkinter** and **PyMuPDF**, featuring
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pdf-viewer-tkinter.git
+git clone https://github.com/thonpheakdey/pdf-viewer-tkinter
 cd pdf-viewer-tkinter
